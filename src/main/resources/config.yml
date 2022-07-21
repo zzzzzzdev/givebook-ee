@@ -1,0 +1,18 @@
+#______ _            _                 _
+# / _____|_)          | |               | |
+#| /  ___ _ _   _ ____| | _   ___   ___ | |  _
+#| | (___) | | | / _  ) || \ / _ \ / _ \| | / )
+#| \____/| |\ V ( (/ /| |_) ) |_| | |_| | |< (
+# \_____/|_| \_/ \____)____/ \___/ \___/|_| \_)
+#
+
+Options:
+  Cooldown: 60 #In seconds
+
+Commands:
+  Book:
+    Cooldown: "&c&l(!) &cYou are still on cooldown for &e%s% &cseconds."
+    Permission: "&c&l(!) &cYou do not have permission."
+    InvalidArgs: "&c&l(!) &c/book <enchantment>"
+    InvalidEnchantment: "&c&l(!) &cInvalid Enchantment"
+    Received: "&a&l(!) &aYou have given yourself an &e%enchantment% &eenchantment book"

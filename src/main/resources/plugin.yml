@@ -1,0 +1,9 @@
+name: Givebook
+version: ${project.version}
+main: dev.skript.givebook.Givebook
+api-version: 1.13
+depend: [EliteEnchantments]
+authors: [Skript]
+description: EliteEnchantments Addon
+commands:
+  Book:
